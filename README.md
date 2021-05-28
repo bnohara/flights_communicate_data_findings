@@ -52,4 +52,4 @@ To close the presentation, I showed a heat map of arrival delay time by destinat
 
 From the command line, this command can be used to run the slides:
 
-jupyter nbconvert slide_deck_template.ipynb --to slides --post serve --no-input --no-prompt
+`jupyter nbconvert slide_deck_template.ipynb --to slides --post serve --no-input --no-prompt`
